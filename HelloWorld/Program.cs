@@ -13,6 +13,7 @@ namespace HelloWorld
         {
             Console.WriteLine("emodeitapira");
             Console.Read();
+            Console.Read();
         }
     }
 }

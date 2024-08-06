@@ -11,9 +11,9 @@ namespace HelloWorld
         static void Main(string[] args)
 
         {
-            Console.WriteLine("emodeitapira");
+            Console.WriteLine("emodeitapira e joaozinho");
             Console.Read();
-            Console.Read();
+            
         }
     }
 }
